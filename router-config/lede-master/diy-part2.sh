@@ -6,6 +6,10 @@
 # Source code repository: https://github.com/coolsnowwolf/lede / Branch: master
 #========================================================================================================================
 
+#=============MY MODIFICATION
+git clone https://github.com/jerrykuku/luci-app-ttnode.git package/lean/luci-app-ttnode
+
+
 # ------------------------------- Main source started -------------------------------
 #
 # Modify default theme（FROM uci-theme-bootstrap CHANGE TO luci-theme-material）
